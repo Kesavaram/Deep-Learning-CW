@@ -1,0 +1,1 @@
+run_topk.sh "C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset\Newfolder" "C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output"
