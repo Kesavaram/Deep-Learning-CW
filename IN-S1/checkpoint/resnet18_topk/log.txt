@@ -1,0 +1,1462 @@
+
+---- Start New Training: 2024-04-06 18:18:41.732256 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset
+total_epochs: 50
+batch_size: 32
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-06 18:18:43.862645 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset
+total_epochs: 50
+batch_size: 32
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-06 18:24:02.095390 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset
+total_epochs: 50
+batch_size: 32
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-06 18:24:04.341580 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset
+total_epochs: 50
+batch_size: 32
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-06 18:29:23.971373 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset
+total_epochs: 50
+batch_size: 32
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-06 18:29:26.172935 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset
+total_epochs: 50
+batch_size: 32
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-06 18:34:55.364325 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset
+total_epochs: 50
+batch_size: 32
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-06 18:34:57.604077 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset
+total_epochs: 50
+batch_size: 32
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-07 12:28:12.128452 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset
+total_epochs: 50
+batch_size: 32
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-07 12:29:29.219186 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset
+total_epochs: 50
+batch_size: 32
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-07 12:30:27.491286 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset
+total_epochs: 50
+batch_size: 32
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-07 14:08:03.586924 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset
+total_epochs: 50
+batch_size: 32
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-07 14:08:06.505493 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset
+total_epochs: 50
+batch_size: 32
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-07 14:12:31.508597 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset
+total_epochs: 50
+batch_size: 32
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-07 14:12:34.410394 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset
+total_epochs: 50
+batch_size: 32
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-07 14:15:53.503826 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset
+total_epochs: 50
+batch_size: 32
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-07 14:15:56.572968 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset
+total_epochs: 50
+batch_size: 32
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-07 14:19:22.664385 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset
+total_epochs: 50
+batch_size: 32
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-07 14:19:25.624276 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset
+total_epochs: 50
+batch_size: 32
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-07 14:24:32.044440 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset
+total_epochs: 50
+batch_size: 32
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-07 14:25:40.536781 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset
+total_epochs: 50
+batch_size: 32
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-07 14:29:00.620032 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset
+total_epochs: 50
+batch_size: 32
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-07 14:34:52.341924 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset
+total_epochs: 50
+batch_size: 32
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-07 15:22:50.094155 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset
+total_epochs: 2
+batch_size: 8
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-07 15:23:18.680759 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset
+total_epochs: 2
+batch_size: 8
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-07 15:23:37.022753 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset
+total_epochs: 2
+batch_size: 8
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-07 15:23:58.304211 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset
+total_epochs: 2
+batch_size: 8
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-07 15:24:13.587055 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset
+total_epochs: 2
+batch_size: 8
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-07 15:24:30.956151 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset
+total_epochs: 2
+batch_size: 8
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-07 15:25:52.343717 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset
+total_epochs: 2
+batch_size: 16
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-07 15:26:43.223079 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset
+total_epochs: 2
+batch_size: 32
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-07 15:27:20.778022 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset
+total_epochs: 2
+batch_size: 32
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-07 15:29:30.280333 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset
+total_epochs: 50
+batch_size: 32
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-07 15:31:01.098680 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset
+total_epochs: 50
+batch_size: 32
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-07 15:32:09.374196 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset
+total_epochs: 50
+batch_size: 32
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-07 15:35:37.937988 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset
+total_epochs: 2
+batch_size: 4
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-07 15:37:31.144156 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset
+total_epochs: 2
+batch_size: 4
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-07 16:52:21.956754 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset
+total_epochs: 2
+batch_size: 4
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-07 16:53:57.302461 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset
+total_epochs: 2
+batch_size: 4
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-07 16:59:14.566295 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset
+total_epochs: 2
+batch_size: 4
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-07 17:27:59.830931 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset
+total_epochs: 2
+batch_size: 4
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-07 17:30:48.674586 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset
+total_epochs: 2
+batch_size: 4
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-07 17:31:07.948069 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset
+total_epochs: 2
+batch_size: 4
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-07 17:34:24.893127 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset
+total_epochs: 2
+batch_size: 4
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-07 17:47:38.984929 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset
+total_epochs: 2
+batch_size: 4
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-07 17:48:01.751882 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset
+total_epochs: 2
+batch_size: 4
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-07 17:49:48.346823 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset
+total_epochs: 1
+batch_size: 2
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-07 17:52:26.816235 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset
+total_epochs: 1
+batch_size: 2
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-07 17:55:06.571643 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset
+total_epochs: 1
+batch_size: 2
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-07 17:58:50.440390 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset
+total_epochs: 1
+batch_size: 2
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-07 17:59:53.291193 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset
+total_epochs: 1
+batch_size: 1
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-08 13:05:02.336287 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset
+total_epochs: 1
+batch_size: 2
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-08 13:05:31.150851 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset
+total_epochs: 1
+batch_size: 2
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-08 13:08:13.410894 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset
+total_epochs: 1
+batch_size: 2
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-08 13:09:09.316556 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset
+total_epochs: 1
+batch_size: 2
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-08 15:01:09.475408 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset
+total_epochs: 1
+batch_size: 2
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-08 15:03:30.006839 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset
+total_epochs: 1
+batch_size: 2
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-08 15:07:10.734316 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset
+total_epochs: 1
+batch_size: 2
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-08 15:46:40.367299 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset
+total_epochs: 1
+batch_size: 2
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-08 15:48:23.127769 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset
+total_epochs: 1
+batch_size: 2
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output\
+
+---- Start New Training: 2024-04-08 15:51:43.554031 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset
+total_epochs: 2
+batch_size: 8
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output\
+
+---- Start New Training: 2024-04-08 16:40:36.433486 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset
+total_epochs: 2
+batch_size: 8
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-08 16:49:09.637719 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset
+total_epochs: 2
+batch_size: 8
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-08 16:49:53.812813 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset
+total_epochs: 2
+batch_size: 8
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-09 12:12:15.263907 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset
+total_epochs: 2
+batch_size: 8
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-09 12:15:07.358381 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset
+total_epochs: 2
+batch_size: 8
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-09 12:17:19.142147 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset
+total_epochs: 2
+batch_size: 8
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-09 12:19:22.162373 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset
+total_epochs: 2
+batch_size: 8
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-09 12:20:57.084500 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset
+total_epochs: 2
+batch_size: 8
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-09 12:29:05.949466 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset
+total_epochs: 2
+batch_size: 8
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-09 12:32:37.063131 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset
+total_epochs: 2
+batch_size: 8
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-09 12:32:58.094625 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset
+total_epochs: 2
+batch_size: 8
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-09 12:33:57.993945 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset
+total_epochs: 2
+batch_size: 8
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-09 12:37:42.779139 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset
+total_epochs: 2
+batch_size: 8
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-09 12:38:02.642331 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset
+total_epochs: 2
+batch_size: 8
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-09 12:44:25.268215 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset
+total_epochs: 2
+batch_size: 8
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-09 13:27:35.414808 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset
+total_epochs: 2
+batch_size: 8
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-09 13:31:37.567945 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset
+total_epochs: 2
+batch_size: 8
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-09 13:32:20.280561 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset
+total_epochs: 2
+batch_size: 8
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-09 14:07:23.491447 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset\Newfolder
+total_epochs: 2
+batch_size: 8
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-09 14:07:57.212532 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset\Newfolder
+total_epochs: 2
+batch_size: 8
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-09 14:16:05.070967 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset\Newfolder
+total_epochs: 2
+batch_size: 8
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-09 14:18:00.127504 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset\Newfolder
+total_epochs: 2
+batch_size: 8
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-09 20:47:01.072737 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset\Newfolder
+total_epochs: 2
+batch_size: 8
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-09 21:21:40.683557 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset\Newfolder
+total_epochs: 2
+batch_size: 8
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-09 21:26:11.618895 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset\Newfolder
+total_epochs: 2
+batch_size: 8
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-09 21:27:53.371445 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset\Newfolder
+total_epochs: 2
+batch_size: 8
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-09 21:28:43.655448 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset\Newfolder
+total_epochs: 2
+batch_size: 8
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-09 21:33:25.366291 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset\Newfolder
+total_epochs: 2
+batch_size: 8
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-09 21:33:53.694672 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset\Newfolder
+total_epochs: 2
+batch_size: 8
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-10 12:07:47.276759 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset\Newfolder
+total_epochs: 5
+batch_size: 8
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-10 12:13:26.825822 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset\Newfolder
+total_epochs: 5
+batch_size: 8
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-10 12:16:11.448009 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset\Newfolder
+total_epochs: 1
+batch_size: 32
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-10 12:20:54.153110 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset\Newfolder
+total_epochs: 1
+batch_size: 8
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-10 12:21:43.560647 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset\Newfolder
+total_epochs: 1
+batch_size: 8
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-10 12:29:12.477810 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset\Newfolder
+total_epochs: 1
+batch_size: 8
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-10 12:31:26.642534 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset\Newfolder
+total_epochs: 1
+batch_size: 16
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+
+---- Start New Training: 2024-04-10 12:47:48.593671 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset\Newfolder
+total_epochs: 1
+batch_size: 8
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics\output
+2024-04-10 14:07:43.743808 | epoch 0 | best_acc 0.6 | current acc 0.6 | best sin acc 0.40766408479412963 | sin acc 0.40766408479412963 | loss 0.6810489604759217
+
+---- Start New Training: 2024-04-13 17:05:09.844944 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset2
+total_epochs: 1
+batch_size: 8
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics2\outpu
+2024-04-13 17:09:18.906440 | epoch 0 | best_acc 11.914893617021276 | current acc 11.914893617021276 | best sin acc 8.333333333333334 | sin acc 8.333333333333334 | loss 0.5125461410999298
+
+---- Start New Training: 2024-04-13 17:13:39.791445 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset2
+total_epochs: 10
+batch_size: 8
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics2\output
+2024-04-13 17:17:20.798045 | epoch 0 | best_acc 7.659574468085107 | current acc 7.659574468085107 | best sin acc 12.5 | sin acc 12.5 | loss 0.6001452676773071
+2024-04-13 17:21:05.174957 | epoch 1 | best_acc 9.361702127659575 | current acc 9.361702127659575 | best sin acc 12.5 | sin acc 10.606060606060606 | loss 0.2915532817363739
+2024-04-13 17:24:59.011584 | epoch 2 | best_acc 9.787234042553191 | current acc 9.787234042553191 | best sin acc 12.5 | sin acc 9.848484848484848 | loss 0.2910056628227234
+2024-04-13 17:29:45.704193 | epoch 3 | best_acc 9.787234042553191 | current acc 7.23404255319149 | best sin acc 12.5 | sin acc 12.5 | loss 0.2910782537460327
+2024-04-13 17:33:51.393959 | epoch 4 | best_acc 9.787234042553191 | current acc 9.787234042553191 | best sin acc 12.5 | sin acc 10.227272727272727 | loss 0.290179017829895
+2024-04-13 17:37:55.151977 | epoch 5 | best_acc 9.787234042553191 | current acc 7.23404255319149 | best sin acc 12.5 | sin acc 12.5 | loss 0.2900438928604126
+2024-04-13 17:42:01.294690 | epoch 6 | best_acc 9.787234042553191 | current acc 9.787234042553191 | best sin acc 12.5 | sin acc 10.227272727272727 | loss 0.2888994616508484
+2024-04-13 17:46:09.296500 | epoch 7 | best_acc 10.212765957446809 | current acc 10.212765957446809 | best sin acc 12.5 | sin acc 9.848484848484848 | loss 0.2886354712486267
+2024-04-13 17:50:14.471222 | epoch 8 | best_acc 11.914893617021276 | current acc 11.914893617021276 | best sin acc 12.5 | sin acc 8.333333333333334 | loss 0.2880469673156738
+2024-04-13 17:54:16.860203 | epoch 9 | best_acc 11.914893617021276 | current acc 11.914893617021276 | best sin acc 12.5 | sin acc 8.333333333333334 | loss 0.2880427747249603
+
+---- Start New Training: 2024-04-26 15:03:16.524678 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset2
+total_epochs: 30
+batch_size: 8
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics2\output
+2024-04-26 15:06:55.982539 | epoch 0 | best_acc 11.914893617021276 | current acc 11.914893617021276 | best sin acc 8.333333333333334 | sin acc 8.333333333333334 | loss 0.5354537351131439
+2024-04-26 15:10:24.664997 | epoch 1 | best_acc 11.914893617021276 | current acc 9.361702127659575 | best sin acc 10.606060606060606 | sin acc 10.606060606060606 | loss 0.2915895830154419
+2024-04-26 15:14:10.569358 | epoch 2 | best_acc 12.340425531914894 | current acc 12.340425531914894 | best sin acc 10.606060606060606 | sin acc 7.954545454545454 | loss 0.29162950201034543
+2024-04-26 15:18:00.292316 | epoch 3 | best_acc 12.340425531914894 | current acc 10.212765957446809 | best sin acc 10.606060606060606 | sin acc 9.848484848484848 | loss 0.29083211359977723
+2024-04-26 15:21:34.475635 | epoch 4 | best_acc 12.340425531914894 | current acc 8.085106382978724 | best sin acc 11.742424242424242 | sin acc 11.742424242424242 | loss 0.29101138257980347
+2024-04-26 15:25:02.741427 | epoch 5 | best_acc 12.340425531914894 | current acc 8.085106382978724 | best sin acc 11.742424242424242 | sin acc 11.742424242424242 | loss 0.29137288231849673
+2024-04-26 15:28:35.485213 | epoch 6 | best_acc 12.340425531914894 | current acc 11.914893617021276 | best sin acc 11.742424242424242 | sin acc 8.333333333333334 | loss 0.29115802526474
+2024-04-26 15:32:05.083733 | epoch 7 | best_acc 12.340425531914894 | current acc 9.361702127659575 | best sin acc 11.742424242424242 | sin acc 10.606060606060606 | loss 0.29067065482139587
+2024-04-26 15:35:34.645481 | epoch 8 | best_acc 12.340425531914894 | current acc 11.063829787234043 | best sin acc 11.742424242424242 | sin acc 9.090909090909092 | loss 0.29087833051681516
+2024-04-26 15:39:07.894707 | epoch 9 | best_acc 12.340425531914894 | current acc 10.212765957446809 | best sin acc 11.742424242424242 | sin acc 9.848484848484848 | loss 0.29049379725456237
+2024-04-26 15:42:39.233384 | epoch 10 | best_acc 12.340425531914894 | current acc 10.212765957446809 | best sin acc 11.742424242424242 | sin acc 9.848484848484848 | loss 0.2907599547863007
+2024-04-26 15:46:04.134927 | epoch 11 | best_acc 12.340425531914894 | current acc 10.212765957446809 | best sin acc 11.742424242424242 | sin acc 9.848484848484848 | loss 0.29029006748199465
+2024-04-26 15:49:38.474302 | epoch 12 | best_acc 12.340425531914894 | current acc 9.787234042553191 | best sin acc 11.742424242424242 | sin acc 9.848484848484848 | loss 0.29017934370040893
+2024-04-26 15:53:10.908228 | epoch 13 | best_acc 12.340425531914894 | current acc 10.212765957446809 | best sin acc 11.742424242424242 | sin acc 9.848484848484848 | loss 0.29006982269287107
+2024-04-26 15:56:37.428595 | epoch 14 | best_acc 12.340425531914894 | current acc 10.212765957446809 | best sin acc 11.742424242424242 | sin acc 9.848484848484848 | loss 0.2901579865932465
+2024-04-26 16:00:03.760217 | epoch 15 | best_acc 12.340425531914894 | current acc 8.085106382978724 | best sin acc 11.742424242424242 | sin acc 11.742424242424242 | loss 0.28944931387901307
+2024-04-26 16:03:35.043694 | epoch 16 | best_acc 12.340425531914894 | current acc 9.361702127659575 | best sin acc 11.742424242424242 | sin acc 10.606060606060606 | loss 0.290003191280365
+2024-04-26 16:07:05.013152 | epoch 17 | best_acc 12.340425531914894 | current acc 9.361702127659575 | best sin acc 11.742424242424242 | sin acc 10.606060606060606 | loss 0.28943188309669493
+2024-04-26 16:10:39.630192 | epoch 18 | best_acc 12.340425531914894 | current acc 11.914893617021276 | best sin acc 11.742424242424242 | sin acc 8.333333333333334 | loss 0.28904978342056276
+2024-04-26 16:14:17.792295 | epoch 19 | best_acc 12.340425531914894 | current acc 10.212765957446809 | best sin acc 11.742424242424242 | sin acc 10.227272727272727 | loss 0.288975469493866
+2024-04-26 16:18:01.081519 | epoch 20 | best_acc 12.340425531914894 | current acc 7.659574468085107 | best sin acc 12.5 | sin acc 12.5 | loss 0.28860607995986937
+2024-04-26 16:21:38.431638 | epoch 21 | best_acc 24.25531914893617 | current acc 24.25531914893617 | best sin acc 16.035353535353536 | sin acc 16.035353535353536 | loss 0.28382030622959137
+2024-04-26 16:25:16.645370 | epoch 22 | best_acc 24.25531914893617 | current acc 23.829787234042552 | best sin acc 18.434343434343436 | sin acc 18.434343434343436 | loss 0.2762916985273361
+2024-04-26 16:28:56.065286 | epoch 23 | best_acc 24.25531914893617 | current acc 23.404255319148938 | best sin acc 18.560606060606062 | sin acc 18.560606060606062 | loss 0.27113985998630524
+2024-04-26 16:32:36.250188 | epoch 24 | best_acc 24.680851063829788 | current acc 24.680851063829788 | best sin acc 19.82323232323232 | sin acc 19.82323232323232 | loss 0.26450592868328093
+2024-04-26 16:36:22.538556 | epoch 25 | best_acc 27.659574468085108 | current acc 27.659574468085108 | best sin acc 20.707070707070706 | sin acc 20.707070707070706 | loss 0.2568280680656433
+2024-04-26 16:40:06.024677 | epoch 26 | best_acc 32.765957446808514 | current acc 32.765957446808514 | best sin acc 20.707070707070706 | sin acc 17.67676767676768 | loss 0.24362982034683228
+2024-04-26 16:43:52.071789 | epoch 27 | best_acc 37.4468085106383 | current acc 37.4468085106383 | best sin acc 20.707070707070706 | sin acc 20.2020202020202 | loss 0.23482183442115784
+2024-04-26 16:47:43.108004 | epoch 28 | best_acc 39.148936170212764 | current acc 39.148936170212764 | best sin acc 20.707070707070706 | sin acc 20.454545454545453 | loss 0.22803036787509917
+2024-04-26 16:51:31.349070 | epoch 29 | best_acc 41.702127659574465 | current acc 41.702127659574465 | best sin acc 20.707070707070706 | sin acc 20.58080808080808 | loss 0.22148936104774475
+
+---- Start New Training: 2024-04-26 16:55:49.357881 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset2
+total_epochs: 30
+batch_size: 8
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics2\output
+
+---- Start New Training: 2024-04-26 17:06:28.424290 ----
+lr: 0.1
+resume: False
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset2
+total_epochs: 30
+batch_size: 8
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics2\output
+
+---- Start New Training: 2024-04-26 17:11:42.802794 ----
+lr: 0.1
+resume: True
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset2
+total_epochs: 30
+batch_size: 8
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics2\output
+2024-04-26 17:15:41.736475 | epoch 0 | best_acc 9.787234042553191 | current acc 9.787234042553191 | best sin acc 10.227272727272727 | sin acc 10.227272727272727 | loss 0.29155193319320677
+2024-04-26 17:19:34.926052 | epoch 1 | best_acc 10.212765957446809 | current acc 10.212765957446809 | best sin acc 10.227272727272727 | sin acc 9.848484848484848 | loss 0.2909076858520508
+2024-04-26 17:23:22.293818 | epoch 2 | best_acc 10.212765957446809 | current acc 8.936170212765957 | best sin acc 10.606060606060606 | sin acc 10.606060606060606 | loss 0.29160530405044555
+
+---- Start New Training: 2024-04-26 17:24:35.153930 ----
+lr: 0.1
+resume: True
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset2
+total_epochs: 30
+batch_size: 8
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics2\output
+2024-04-26 17:27:57.076345 | epoch 2 | best_acc 10.212765957446809 | current acc 10.212765957446809 | best sin acc 9.848484848484848 | sin acc 9.848484848484848 | loss 0.2911596504688263
+2024-04-26 17:31:17.123051 | epoch 3 | best_acc 10.212765957446809 | current acc 8.085106382978724 | best sin acc 11.742424242424242 | sin acc 11.742424242424242 | loss 0.2916776346683502
+2024-04-26 17:34:39.497243 | epoch 4 | best_acc 10.212765957446809 | current acc 9.787234042553191 | best sin acc 11.742424242424242 | sin acc 9.848484848484848 | loss 0.2916673981666565
+
+---- Start New Training: 2024-04-26 19:37:48.273291 ----
+lr: 0.1
+resume: True
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset2
+total_epochs: 30
+batch_size: 8
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics2\output
+2024-04-26 19:42:55.247803 | epoch 3 | best_acc 11.914893617021276 | current acc 11.914893617021276 | best sin acc 8.333333333333334 | sin acc 8.333333333333334 | loss 0.29118150434494017
+
+---- Start New Training: 2024-04-27 17:51:35.433304 ----
+lr: 0.1
+resume: True
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset2
+total_epochs: 30
+batch_size: 8
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics2\output
+2024-04-27 17:55:32.999737 | epoch 3 | best_acc 8.085106382978724 | current acc 8.085106382978724 | best sin acc 11.742424242424242 | sin acc 11.742424242424242 | loss 0.2916153091907501
+2024-04-27 17:59:06.257404 | epoch 4 | best_acc 11.063829787234043 | current acc 11.063829787234043 | best sin acc 11.742424242424242 | sin acc 9.090909090909092 | loss 0.29135882215499875
+2024-04-27 18:02:52.830127 | epoch 5 | best_acc 11.063829787234043 | current acc 11.063829787234043 | best sin acc 11.742424242424242 | sin acc 9.090909090909092 | loss 0.2915814540863037
+2024-04-27 18:06:24.658945 | epoch 6 | best_acc 11.063829787234043 | current acc 7.23404255319149 | best sin acc 12.5 | sin acc 12.5 | loss 0.29170290236473084
+
+---- Start New Training: 2024-04-27 18:08:24.177136 ----
+lr: 0.1
+resume: True
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset2
+total_epochs: 30
+batch_size: 8
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics2\output
+2024-04-27 18:12:04.150299 | epoch 6 | best_acc 10.212765957446809 | current acc 10.212765957446809 | best sin acc 9.848484848484848 | sin acc 9.848484848484848 | loss 0.29154539289474485
+2024-04-27 18:15:43.269502 | epoch 7 | best_acc 10.212765957446809 | current acc 10.212765957446809 | best sin acc 9.848484848484848 | sin acc 9.848484848484848 | loss 0.29163373699188233
+2024-04-27 18:19:24.551110 | epoch 8 | best_acc 11.063829787234043 | current acc 11.063829787234043 | best sin acc 9.848484848484848 | sin acc 9.090909090909092 | loss 0.2912389833927155
+2024-04-27 18:23:03.920536 | epoch 9 | best_acc 11.063829787234043 | current acc 9.787234042553191 | best sin acc 10.227272727272727 | sin acc 10.227272727272727 | loss 0.29078263702392576
+2024-04-27 18:26:32.066314 | epoch 10 | best_acc 11.063829787234043 | current acc 9.361702127659575 | best sin acc 10.606060606060606 | sin acc 10.606060606060606 | loss 0.29158567080497744
+2024-04-27 18:29:59.357404 | epoch 11 | best_acc 11.063829787234043 | current acc 8.085106382978724 | best sin acc 11.742424242424242 | sin acc 11.742424242424242 | loss 0.2911906382083893
+2024-04-27 18:33:25.942649 | epoch 12 | best_acc 11.063829787234043 | current acc 11.063829787234043 | best sin acc 11.742424242424242 | sin acc 9.090909090909092 | loss 0.2907800730705261
+2024-04-27 18:36:52.636054 | epoch 13 | best_acc 11.063829787234043 | current acc 10.212765957446809 | best sin acc 11.742424242424242 | sin acc 9.848484848484848 | loss 0.2908978147506714
+2024-04-27 18:40:22.462428 | epoch 14 | best_acc 11.063829787234043 | current acc 9.361702127659575 | best sin acc 11.742424242424242 | sin acc 10.606060606060606 | loss 0.2906897761821747
+2024-04-27 18:43:50.627065 | epoch 15 | best_acc 11.063829787234043 | current acc 10.212765957446809 | best sin acc 11.742424242424242 | sin acc 9.848484848484848 | loss 0.2906324315547943
+2024-04-27 18:47:18.536519 | epoch 16 | best_acc 11.063829787234043 | current acc 10.212765957446809 | best sin acc 11.742424242424242 | sin acc 9.848484848484848 | loss 0.29043048958778384
+2024-04-27 18:50:45.252296 | epoch 17 | best_acc 11.914893617021276 | current acc 11.914893617021276 | best sin acc 11.742424242424242 | sin acc 8.333333333333334 | loss 0.290433792924881
+2024-04-27 18:54:19.241465 | epoch 18 | best_acc 11.914893617021276 | current acc 10.212765957446809 | best sin acc 11.742424242424242 | sin acc 9.848484848484848 | loss 0.29065082139968873
+2024-04-27 18:57:43.690723 | epoch 19 | best_acc 12.340425531914894 | current acc 12.340425531914894 | best sin acc 11.742424242424242 | sin acc 7.954545454545454 | loss 0.2901320796966553
+2024-04-27 19:01:06.183459 | epoch 20 | best_acc 12.340425531914894 | current acc 9.787234042553191 | best sin acc 11.742424242424242 | sin acc 9.848484848484848 | loss 0.2897930631160736
+2024-04-27 19:04:29.870107 | epoch 21 | best_acc 12.340425531914894 | current acc 7.23404255319149 | best sin acc 12.5 | sin acc 12.5 | loss 0.289943142747879
+2024-04-27 19:07:59.313919 | epoch 22 | best_acc 12.340425531914894 | current acc 11.063829787234043 | best sin acc 12.5 | sin acc 9.090909090909092 | loss 0.2898005990028381
+2024-04-27 19:11:28.159258 | epoch 23 | best_acc 12.340425531914894 | current acc 10.212765957446809 | best sin acc 12.5 | sin acc 9.848484848484848 | loss 0.28927140765190124
+2024-04-27 19:14:59.294338 | epoch 24 | best_acc 12.340425531914894 | current acc 10.212765957446809 | best sin acc 12.5 | sin acc 9.848484848484848 | loss 0.2890859486579895
+2024-04-27 19:18:30.611250 | epoch 25 | best_acc 12.340425531914894 | current acc 8.085106382978724 | best sin acc 12.5 | sin acc 11.742424242424242 | loss 0.28899617404937744
+2024-04-27 19:22:03.688841 | epoch 26 | best_acc 12.340425531914894 | current acc 9.787234042553191 | best sin acc 12.5 | sin acc 9.848484848484848 | loss 0.2890023727416992
+2024-04-27 19:25:36.737916 | epoch 27 | best_acc 12.340425531914894 | current acc 11.914893617021276 | best sin acc 12.5 | sin acc 8.333333333333334 | loss 0.2887438425540924
+2024-04-27 19:29:10.672116 | epoch 28 | best_acc 12.340425531914894 | current acc 9.787234042553191 | best sin acc 12.5 | sin acc 9.848484848484848 | loss 0.2884113266468048
+2024-04-27 19:32:41.941981 | epoch 29 | best_acc 12.340425531914894 | current acc 11.063829787234043 | best sin acc 12.5 | sin acc 9.090909090909092 | loss 0.2883582993984222
+2024-04-27 19:36:13.702160 | epoch 30 | best_acc 12.340425531914894 | current acc 10.212765957446809 | best sin acc 12.5 | sin acc 9.848484848484848 | loss 0.28817187514305115
+2024-04-27 19:39:45.868114 | epoch 31 | best_acc 12.340425531914894 | current acc 7.23404255319149 | best sin acc 12.5 | sin acc 12.5 | loss 0.2881588059425354
+2024-04-27 19:43:24.497797 | epoch 32 | best_acc 12.340425531914894 | current acc 11.914893617021276 | best sin acc 12.5 | sin acc 8.333333333333334 | loss 0.2880620995044708
+2024-04-27 19:47:00.192317 | epoch 33 | best_acc 12.340425531914894 | current acc 9.361702127659575 | best sin acc 12.5 | sin acc 10.606060606060606 | loss 0.28798660931587217
+2024-04-27 19:50:33.946508 | epoch 34 | best_acc 12.340425531914894 | current acc 9.361702127659575 | best sin acc 12.5 | sin acc 10.606060606060606 | loss 0.2878964605331421
+2024-04-27 19:54:07.786802 | epoch 35 | best_acc 12.340425531914894 | current acc 9.361702127659575 | best sin acc 12.5 | sin acc 10.606060606060606 | loss 0.28784435658454893
+
+---- Start New Training: 2024-04-27 19:56:02.574350 ----
+lr: 0.1
+resume: True
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset2
+total_epochs: 30
+batch_size: 8
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics2\output
+2024-04-27 19:59:31.466813 | epoch 21 | best_acc 11.063829787234043 | current acc 11.063829787234043 | best sin acc 9.090909090909092 | sin acc 9.090909090909092 | loss 0.2914373122215271
+2024-04-27 20:03:04.293719 | epoch 22 | best_acc 11.914893617021276 | current acc 11.914893617021276 | best sin acc 9.090909090909092 | sin acc 8.333333333333334 | loss 0.29122761006355286
+2024-04-27 20:06:33.759157 | epoch 23 | best_acc 11.914893617021276 | current acc 11.063829787234043 | best sin acc 9.090909090909092 | sin acc 9.090909090909092 | loss 0.2911210277557373
+2024-04-27 20:10:01.667269 | epoch 24 | best_acc 11.914893617021276 | current acc 10.212765957446809 | best sin acc 9.848484848484848 | sin acc 9.848484848484848 | loss 0.2914400360107422
+2024-04-27 20:13:40.843677 | epoch 25 | best_acc 11.914893617021276 | current acc 7.23404255319149 | best sin acc 12.5 | sin acc 12.5 | loss 0.2914543662071228
+2024-04-27 20:17:08.588692 | epoch 26 | best_acc 11.914893617021276 | current acc 9.361702127659575 | best sin acc 12.5 | sin acc 10.606060606060606 | loss 0.29138392934799195
+2024-04-27 20:20:34.908717 | epoch 27 | best_acc 11.914893617021276 | current acc 9.361702127659575 | best sin acc 12.5 | sin acc 10.606060606060606 | loss 0.290813667011261
+2024-04-27 20:24:01.341702 | epoch 28 | best_acc 11.914893617021276 | current acc 9.361702127659575 | best sin acc 12.5 | sin acc 10.606060606060606 | loss 0.29144039840698244
+2024-04-27 20:27:27.638029 | epoch 29 | best_acc 11.914893617021276 | current acc 7.23404255319149 | best sin acc 12.5 | sin acc 12.5 | loss 0.290564535856247
+2024-04-27 20:30:53.165645 | epoch 30 | best_acc 11.914893617021276 | current acc 9.361702127659575 | best sin acc 12.5 | sin acc 10.606060606060606 | loss 0.2906397026538849
+2024-04-27 20:34:22.711701 | epoch 31 | best_acc 11.914893617021276 | current acc 11.914893617021276 | best sin acc 12.5 | sin acc 8.333333333333334 | loss 0.2906898429870605
+2024-04-27 20:37:50.503463 | epoch 32 | best_acc 11.914893617021276 | current acc 8.085106382978724 | best sin acc 12.5 | sin acc 11.742424242424242 | loss 0.29041432452201843
+2024-04-27 20:41:16.838529 | epoch 33 | best_acc 11.914893617021276 | current acc 9.787234042553191 | best sin acc 12.5 | sin acc 9.848484848484848 | loss 0.28981892471313475
+2024-04-27 20:44:42.316724 | epoch 34 | best_acc 11.914893617021276 | current acc 10.212765957446809 | best sin acc 12.5 | sin acc 9.848484848484848 | loss 0.29009515738487246
+2024-04-27 20:48:05.963916 | epoch 35 | best_acc 11.914893617021276 | current acc 10.212765957446809 | best sin acc 12.5 | sin acc 9.848484848484848 | loss 0.28955127038955686
+2024-04-27 20:51:25.835956 | epoch 36 | best_acc 11.914893617021276 | current acc 8.085106382978724 | best sin acc 12.5 | sin acc 11.742424242424242 | loss 0.28991572303771973
+2024-04-27 20:54:44.001314 | epoch 37 | best_acc 12.340425531914894 | current acc 12.340425531914894 | best sin acc 12.5 | sin acc 7.954545454545454 | loss 0.28982710342407225
+2024-04-27 20:58:02.170160 | epoch 38 | best_acc 12.340425531914894 | current acc 12.340425531914894 | best sin acc 12.5 | sin acc 7.954545454545454 | loss 0.2893164173126221
+2024-04-27 21:01:22.313435 | epoch 39 | best_acc 12.340425531914894 | current acc 10.212765957446809 | best sin acc 12.5 | sin acc 9.848484848484848 | loss 0.2893234321117401
+2024-04-27 21:04:43.259232 | epoch 40 | best_acc 12.340425531914894 | current acc 9.361702127659575 | best sin acc 12.5 | sin acc 10.606060606060606 | loss 0.28905556130409243
+2024-04-27 21:08:05.841326 | epoch 41 | best_acc 12.340425531914894 | current acc 11.914893617021276 | best sin acc 12.5 | sin acc 8.333333333333334 | loss 0.2887128932952881
+2024-04-27 21:11:26.350363 | epoch 42 | best_acc 12.340425531914894 | current acc 11.063829787234043 | best sin acc 12.5 | sin acc 9.090909090909092 | loss 0.28868188138008116
+2024-04-27 21:14:44.289638 | epoch 43 | best_acc 12.340425531914894 | current acc 9.361702127659575 | best sin acc 12.5 | sin acc 10.606060606060606 | loss 0.2885721701145172
+2024-04-27 21:18:01.787256 | epoch 44 | best_acc 12.340425531914894 | current acc 11.914893617021276 | best sin acc 12.5 | sin acc 8.333333333333334 | loss 0.2883858986377716
+2024-04-27 21:21:19.538964 | epoch 45 | best_acc 12.340425531914894 | current acc 8.085106382978724 | best sin acc 12.5 | sin acc 11.742424242424242 | loss 0.2883530760288239
+2024-04-27 21:24:40.720063 | epoch 46 | best_acc 12.340425531914894 | current acc 8.085106382978724 | best sin acc 12.5 | sin acc 11.742424242424242 | loss 0.2880893654346466
+2024-04-27 21:27:59.019044 | epoch 47 | best_acc 12.340425531914894 | current acc 11.063829787234043 | best sin acc 12.5 | sin acc 9.090909090909092 | loss 0.28806509613990783
+2024-04-27 21:31:16.827065 | epoch 48 | best_acc 12.340425531914894 | current acc 8.085106382978724 | best sin acc 12.5 | sin acc 11.742424242424242 | loss 0.28798698210716245
+
+---- Start New Training: 2024-04-27 21:43:29.416760 ----
+lr: 0.1
+resume: True
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset2
+total_epochs: 30
+batch_size: 8
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics2\output
+2024-04-27 21:46:49.774984 | epoch 37 | best_acc 9.787234042553191 | current acc 9.787234042553191 | best sin acc 10.227272727272727 | sin acc 10.227272727272727 | loss 0.29136914744377135
+2024-04-27 21:50:07.575271 | epoch 38 | best_acc 10.212765957446809 | current acc 10.212765957446809 | best sin acc 10.227272727272727 | sin acc 9.848484848484848 | loss 0.2918383131980896
+2024-04-27 21:53:25.408658 | epoch 39 | best_acc 10.212765957446809 | current acc 8.085106382978724 | best sin acc 11.742424242424242 | sin acc 11.742424242424242 | loss 0.291648614025116
+2024-04-27 21:56:43.885229 | epoch 40 | best_acc 10.212765957446809 | current acc 8.085106382978724 | best sin acc 11.742424242424242 | sin acc 11.742424242424242 | loss 0.29129862518310545
+2024-04-27 22:00:02.335913 | epoch 41 | best_acc 11.063829787234043 | current acc 11.063829787234043 | best sin acc 11.742424242424242 | sin acc 9.090909090909092 | loss 0.2909232573509216
+2024-04-27 22:03:20.197358 | epoch 42 | best_acc 11.063829787234043 | current acc 9.361702127659575 | best sin acc 11.742424242424242 | sin acc 10.606060606060606 | loss 0.2907247456073761
+2024-04-27 22:06:37.719965 | epoch 43 | best_acc 11.063829787234043 | current acc 8.085106382978724 | best sin acc 11.742424242424242 | sin acc 11.742424242424242 | loss 0.2908940437316895
+2024-04-27 22:09:55.646097 | epoch 44 | best_acc 11.063829787234043 | current acc 9.361702127659575 | best sin acc 11.742424242424242 | sin acc 10.606060606060606 | loss 0.2911498497009277
+2024-04-27 22:13:13.424158 | epoch 45 | best_acc 11.063829787234043 | current acc 8.085106382978724 | best sin acc 11.742424242424242 | sin acc 11.742424242424242 | loss 0.2909526122570038
+2024-04-27 22:16:30.764030 | epoch 46 | best_acc 11.063829787234043 | current acc 9.361702127659575 | best sin acc 11.742424242424242 | sin acc 10.606060606060606 | loss 0.29062798075675966
+2024-04-27 22:19:47.924417 | epoch 47 | best_acc 11.063829787234043 | current acc 9.787234042553191 | best sin acc 11.742424242424242 | sin acc 9.848484848484848 | loss 0.2908395024776459
+2024-04-27 22:23:05.041097 | epoch 48 | best_acc 11.063829787234043 | current acc 11.063829787234043 | best sin acc 11.742424242424242 | sin acc 9.090909090909092 | loss 0.29071373920440674
+2024-04-27 22:26:22.172213 | epoch 49 | best_acc 11.063829787234043 | current acc 10.212765957446809 | best sin acc 11.742424242424242 | sin acc 9.848484848484848 | loss 0.2902296231746674
+2024-04-27 22:29:39.311573 | epoch 50 | best_acc 11.063829787234043 | current acc 11.063829787234043 | best sin acc 11.742424242424242 | sin acc 9.090909090909092 | loss 0.2901697180271149
+2024-04-27 22:32:56.476000 | epoch 51 | best_acc 11.063829787234043 | current acc 10.212765957446809 | best sin acc 11.742424242424242 | sin acc 9.848484848484848 | loss 0.28993329362869263
+2024-04-27 22:36:13.400755 | epoch 52 | best_acc 11.063829787234043 | current acc 11.063829787234043 | best sin acc 11.742424242424242 | sin acc 9.090909090909092 | loss 0.28993481841087343
+2024-04-27 22:39:30.767314 | epoch 53 | best_acc 11.063829787234043 | current acc 11.063829787234043 | best sin acc 11.742424242424242 | sin acc 9.090909090909092 | loss 0.28946090087890625
+
+---- Start New Training: 2024-04-30 15:47:17.671415 ----
+lr: 0.15
+resume: True
+pretrained: none
+name: resnet18_topk
+topk: 2_20
+patch_size: 8
+data_folder_path: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset2
+total_epochs: 5
+batch_size: 8
+use_sin_val_folder: C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics2\output
+2024-04-30 15:52:01.465631 | epoch 41 | best_acc 11.063829787234043 | current acc 11.063829787234043 | best sin acc 9.090909090909092 | sin acc 9.090909090909092 | loss 0.2933280140399933
+2024-04-30 15:56:44.444403 | epoch 42 | best_acc 11.063829787234043 | current acc 7.23404255319149 | best sin acc 12.5 | sin acc 12.5 | loss 0.2923432818889618
