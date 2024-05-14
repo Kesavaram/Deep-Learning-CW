@@ -164,7 +164,6 @@ modelvshuman/.idea/
 *.pbtxt
 *ckpt*
 *.csv#
-*.pth
 *.pth.tar
 
 *.swp
