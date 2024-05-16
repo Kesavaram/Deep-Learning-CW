@@ -635,3 +635,5 @@ dmypy.json
 .pytype/
 
 .Rproj.user
+
+projected-gan-topk/trained_gans
