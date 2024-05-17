@@ -1,0 +1,10 @@
+run_topk.sh "C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset2" "C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics2\output"
+
+run_topkWithoutTopK.sh  "C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset2" "C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics2\output"
+
+
+
+run_topk_10.sh "C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset2" "C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics2\output"
+
+
+run_topk_20.sh "C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\dataset2" "C:\Users\kesav\Documents\GITmain\nips2023_shape_vs_texture\stylizedpics2\output"
